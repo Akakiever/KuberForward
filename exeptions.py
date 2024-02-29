@@ -1,0 +1,2 @@
+class InvalidJwtSource(Exception):
+    pass
